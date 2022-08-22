@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Eddie's Computer Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/EddieLi24/Programming1Portfolio2A/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
