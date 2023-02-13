@@ -12,10 +12,20 @@ Graphic based OOP calculator.
 
 ### SpaceGame
 
-![Running SpaceGame]()
+![Running SpaceGame](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/SpaceGame.png?raw=true)
+
+[Source Code]()
 
 ### ScreenSaver
+
+![Running ScreenSaver]()
+
+[Source Code]()
 
 ## Programming 1 Semester 2 Projects:
 
 ### ShapeTester
+
+![Running ShapeTester]()
+
+[Source Code]()
