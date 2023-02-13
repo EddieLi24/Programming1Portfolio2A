@@ -26,6 +26,6 @@ Graphic based OOP calculator.
 
 ### ShapeTester
 
-![Running ShapeTester]()
+![Running ShapeTester](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/ShapeTester.png?raw=true)
 
 [Source Code]()
