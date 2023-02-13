@@ -12,6 +12,8 @@ Graphic based OOP calculator.
 
 ### SpaceGame
 
+![Running SpaceGame]()
+
 ### ScreenSaver
 
 ## Programming 1 Semester 2 Projects:
