@@ -18,7 +18,7 @@ Graphic based OOP calculator.
 
 ### ScreenSaver
 
-![Running ScreenSaver]()
+![Running ScreenSaver](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/ScreenSaver.png?raw=true)
 
 [Source Code]()
 
