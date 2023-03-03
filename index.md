@@ -32,6 +32,6 @@ Graphic based OOP calculator.
 
 ### PigLatin Converter
 
-![Running PigLatin]()
+![Running PigLatin](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/PigLatin.png?raw=true)
 
 [Source Code]()
