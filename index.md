@@ -35,3 +35,14 @@ Graphic based OOP calculator.
 ![Running PigLatin](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/PigLatin.png?raw=true)
 
 [Source Code](https://github.com/EddieLi24/Programming1Portfolio2A/tree/gh-pages/src/piglatin)
+
+## Group Project Spotlight
+
+### Spell-Based Adventure Game
+This is a spell-based game that involves exploring a world, discovering new spells, learning how the elements interact, and fighting enemies. Search the island looking for secrets, knowledge, and special weapons so that you can defeat the final boss!
+
+![Running SBAMap](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/SBAMap.png?raw=true)
+
+![Running SBAFightScene](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/SBAFightScene.png?raw=true)
+
+Group Repository: [Link](https://github.com/MisterNo0ne/PythonGroupTwoA2Prog)
