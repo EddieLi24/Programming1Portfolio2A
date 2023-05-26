@@ -1,5 +1,5 @@
 # Welcome to Eddie's Computer Programming Portfolio
-Eddie Li | [Email](eddili9635@granitesd.org)
+Eddie Li | eddili9635@granitesd.org
 
 ## Programming 1 Semester 1 Projects:
 
