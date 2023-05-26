@@ -1,5 +1,5 @@
 # Welcome to Eddie's Computer Programming Portfolio
-Eddie Li | eddili9635@granitesd.org
+Eddie Li | Main: eddieli24china@gmail.com | School: eddili9635@granitesd.org
 
 Certifications: Exploring Computer Science, Computer Programming 1, Computer Programming 2 827 (Python)
 
