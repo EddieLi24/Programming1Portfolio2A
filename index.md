@@ -1,4 +1,5 @@
 # Welcome to Eddie's Computer Programming Portfolio
+Eddie Li | [Email](eddili9635@granitesd.org)
 
 ## Programming 1 Semester 1 Projects:
 
@@ -12,11 +13,15 @@ Graphic based OOP calculator.
 
 ### SpaceGame
 
+Graphic based OOP space game.
+
 ![Running SpaceGame](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/SpaceGame.png?raw=true)
 
 [Source Code](https://github.com/EddieLi24/Programming1Portfolio2A/tree/gh-pages/src/spacegame)
 
 ### ScreenSaver
+
+Graphic based OOP screen saver.
 
 ![Running ScreenSaver](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/ScreenSaver.png?raw=true)
 
@@ -26,11 +31,15 @@ Graphic based OOP calculator.
 
 ### ShapeTester
 
+Shape calculator to calculate the volume and surface are of a Box, Sphere, and Pyramid.
+
 ![Running ShapeTester](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/ShapeTester.png?raw=true)
 
 [Source Code](https://github.com/EddieLi24/Programming1Portfolio2A/tree/gh-pages/src/shapetester)
 
 ### PigLatin Converter
+
+Translator that translate words and sentences to piglatin.
 
 ![Running PigLatin](https://github.com/EddieLi24/Programming1Portfolio2A/blob/gh-pages/images/PigLatin.png?raw=true)
 
